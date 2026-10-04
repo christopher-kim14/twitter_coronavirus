@@ -131,3 +131,7 @@ dmypy.json
 # vim
 *.swo 
 *.swp
+outputs/*.lang
+outputs/*.country
+nohup.out
+test_output/
